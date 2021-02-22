@@ -1,0 +1,25 @@
+
+        li {
+display: inline;
+color:red;
+background-color: rgb(236, 236, 236);
+font-size: 20px;
+margin: 30px;
+font-style: oblique;
+
+
+}
+nav{
+    border: salmon;
+    text-align: center;
+    border-style: ridge;
+}
+
+
+body { background-color: thistle;
+
+}
+h1 {   font-size: large;
+       font-family: cursive;
+}
+  
